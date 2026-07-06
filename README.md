@@ -1,2 +1,4 @@
 # Preeti-chavannavar
-thi is my fist repository
+this is my fist repository
+<br>
+this is by preeti
